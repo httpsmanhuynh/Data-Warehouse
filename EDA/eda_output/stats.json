@@ -1,0 +1,88 @@
+{
+ "discount_overall": {
+  "co_giam_gia": {
+   "Thành công": 51.8,
+   "Hủy": 42.7,
+   "Hoàn tiền": 5.0,
+   "Khác": 0.5
+  },
+  "khong_giam_gia": {
+   "Thành công": 54.1,
+   "Hủy": 29.8,
+   "Hoàn tiền": 15.1,
+   "Khác": 1.0
+  }
+ },
+ "discount_by_pay": {
+  "COD": {
+   "lines": 269975,
+   "discount_share": 8.8,
+   "co_giam_gia": {
+    "Thành công": 79.7,
+    "Hủy": 4.6,
+    "Hoàn tiền": 15.2,
+    "Khác": 0.5
+   },
+   "khong_giam_gia": {
+    "Thành công": 70.3,
+    "Hủy": 8.1,
+    "Hoàn tiền": 20.4,
+    "Khác": 1.2
+   }
+  },
+  "Không phải COD": {
+   "lines": 312224,
+   "discount_share": 59.0,
+   "co_giam_gia": {
+    "Thành công": 48.2,
+    "Hủy": 47.6,
+    "Hoàn tiền": 3.7,
+    "Khác": 0.5
+   },
+   "khong_giam_gia": {
+    "Thành công": 23.0,
+    "Hủy": 71.6,
+    "Hoàn tiền": 4.9,
+    "Khác": 0.4
+   }
+  }
+ },
+ "discount_depth": {
+  "≤10%": {
+   "lines": 40961,
+   "Thành công": 39.3,
+   "Hủy": 54.1,
+   "Hoàn tiền": 6.1,
+   "Khác": 0.5
+  },
+  "10-25%": {
+   "lines": 102586,
+   "Thành công": 53.8,
+   "Hủy": 41.6,
+   "Hoàn tiền": 4.2,
+   "Khác": 0.4
+  },
+  "25-50%": {
+   "lines": 43494,
+   "Thành công": 51.8,
+   "Hủy": 42.9,
+   "Hoàn tiền": 4.9,
+   "Khác": 0.5
+  },
+  "50-100%": {
+   "lines": 11406,
+   "Thành công": 66.4,
+   "Hủy": 24.3,
+   "Hoàn tiền": 8.5,
+   "Khác": 0.8
+  },
+  ">100%": {
+   "lines": 9624,
+   "Thành công": 66.2,
+   "Hủy": 26.3,
+   "Hoàn tiền": 6.1,
+   "Khác": 1.4
+  }
+ },
+ "discount_month_corr_with_cancel": 0.57
+}
